@@ -30,3 +30,5 @@ app.listen(PORT, async () => {
 
   await connectToDatabase();
 });
+
+export default app;
